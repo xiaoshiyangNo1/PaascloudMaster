@@ -38,7 +38,7 @@ public class AliyunMqTopicConstants {
 		/**
 		 * 发送短信.
 		 */
-		SEND_SMS_TOPIC("SEND_SMS_TOPIC", "发送短信"),
+		SEND_SMS_TOPIC("SEND_SMS_TOPIC", "发送短信5555"),
 		/**
 		 * 发送邮件.
 		 */
